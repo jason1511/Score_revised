@@ -19,6 +19,7 @@
             android:layout_height="wrap_content"
             android:rotationX="360"
             android:text="0" />
+
     </LinearLayout>
 
     <LinearLayout
